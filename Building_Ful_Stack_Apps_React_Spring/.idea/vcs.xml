@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CH1/01_07/end/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CH2/02_02/begin/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CH2/02_02/end/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CH2/02_03/begin/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CH2/02_03/end/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CH2/02_04/begin/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CH2/02_04/end/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CH3/03_01/begin/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CH3/03_01/end/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CH4/04_01/begin/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CH4/04_01/end/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CH4/04_02/begin/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CH4/04_02/end/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CH4/04_03/begin/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CH4/04_03/end/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CH4/04_04/begin/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CH4/04_04/end/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CH4/04_05/begin/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CH4/04_05/end/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CH4/04_06/begin/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CH4/04_06/end/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CH4/04_07/begin/client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CH4/04_07/end/client" vcs="Git" />
+  </component>
+</project>
